@@ -1,0 +1,9 @@
+C:\Users\Andrew\source\repos\KG4\bin\Debug\KG4.exe.config
+C:\Users\Andrew\source\repos\KG4\bin\Debug\KG4.exe
+C:\Users\Andrew\source\repos\KG4\bin\Debug\KG4.pdb
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.Form1.resources
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.Properties.Resources.resources
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.exe
+C:\Users\Andrew\source\repos\KG4\obj\Debug\KG4.pdb
